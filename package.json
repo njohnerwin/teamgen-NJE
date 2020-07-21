@@ -1,0 +1,27 @@
+{
+  "name": "teamgen-nje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teamgen.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njohnerwin/teamgen-NJE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njohnerwin/teamgen-NJE/issues"
+  },
+  "homepage": "https://github.com/njohnerwin/teamgen-NJE#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.2",
+    "jest": "^26.1.0"
+  }
+}
